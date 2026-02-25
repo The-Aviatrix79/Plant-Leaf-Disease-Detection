@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+new model 120/dataset/
+PlantVillage-Dataset-master/
+*.pth
+*.DS_Store
